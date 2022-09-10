@@ -4,7 +4,7 @@
 
 ## Flappy Bird with Neat AI
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CoolmixZero/calculator-pyside6)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CoolmixZero/flappy-bird-ai)
 
 <img align="right" src="images/Flappy Bird AI.gif" height="550" alt="GIF"/>
 
