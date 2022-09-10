@@ -19,9 +19,9 @@ In this project I:
 - AI could learn how to play Flappy Birds in real time
 
 #### Features
-[main.py](https://github.com/CoolmixZero/flappy-bird-ai/main.py) - starts game and also an AI genomes generation, settings for neat-python in cfg-feedforward.txt 
+[`main.py`](https://github.com/CoolmixZero/flappy-bird-ai/main.py) - starts game and also an AI genomes generation, settings for neat-python in cfg-feedforward.txt 
 
-[flappy_bird.py](https://github.com/CoolmixZero/flappy-bird-ai/flappy_bird.py) and [src](https://github.com/CoolmixZero/flappy-bird-ai/src) - code and folder with classes for Flappy Bird game.
+[`flappy_bird.py`](https://github.com/CoolmixZero/flappy-bird-ai/flappy_bird.py) and [`src`](https://github.com/CoolmixZero/flappy-bird-ai/src) - code and folder with classes for Flappy Bird game.
 
 #### Requirements
 To install [requirements.txt](https://github.com/CoolmixZero/flappy-bird-ai/requirements.txt) you need to write this command in the terminal:
