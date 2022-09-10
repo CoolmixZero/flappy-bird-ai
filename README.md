@@ -1,4 +1,10 @@
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+![Last Commit](https://img.shields.io/github/last-commit/CoolmixZero/yclients-api-python?style=for-the-badge)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 ## Flappy Bird with Neat AI
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CoolmixZero/calculator-pyside6)
 
 <img align="right" src="images/Flappy Bird AI.gif" height="350" alt="GIF"/>
 
