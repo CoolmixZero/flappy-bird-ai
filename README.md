@@ -24,7 +24,7 @@ In this project I:
 [`flappy_bird.py`](https://github.com/CoolmixZero/flappy-bird-ai/flappy_bird.py) and [`src`](https://github.com/CoolmixZero/flappy-bird-ai/src) - code and folder with classes for Flappy Bird game.
 
 #### Requirements
-To install [requirements.txt](https://github.com/CoolmixZero/flappy-bird-ai/requirements.txt) you need to write this command in the terminal:
+To install [`requirements.txt`](https://github.com/CoolmixZero/flappy-bird-ai/requirements.txt) you need to write this command in the terminal:
 ```shell
 pip install -r requirements.txt
 ```
