@@ -21,7 +21,7 @@ In this project I:
 #### Features
 [`main.py`](https://github.com/CoolmixZero/flappy-bird-ai/main.py) - starts game and AI genomes generation, settings for neat in [`cfg-feedforward.txt`](https://github.com/CoolmixZero/flappy-bird-ai/cfg-feedforward.txt) 
 
-[`flappy_bird.py`](https://github.com/CoolmixZero/flappy-bird-ai/flappy_bird.py) and [`src`](https://github.com/CoolmixZero/flappy-bird-ai/src) - code file and source folder with classes for Flappy Bird game.
+[`flappy_bird.py`](https://github.com/CoolmixZero/flappy-bird-ai/flappy_bird.py) and [`src`](https://github.com/CoolmixZero/flappy-bird-ai/src) - game-code file with fitness function and source folder with classes for Flappy Bird game.
 
 #### Requirements
 To install [`requirements.txt`](https://github.com/CoolmixZero/flappy-bird-ai/requirements.txt) you need to write this command in the terminal:
