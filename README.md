@@ -6,7 +6,7 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CoolmixZero/flappy-bird-ai)
 
-<img align="right" src="images/Flappy Bird AI.gif" height="550" alt="GIF"/>
+<img align="right" src="images/Flappy Bird AI.gif" height="525" alt="GIF"/>
 
 #### About
 The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
