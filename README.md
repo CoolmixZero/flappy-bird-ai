@@ -1,5 +1,5 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-![Last Commit](https://img.shields.io/github/last-commit/CoolmixZero/yclients-api-python?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/CoolmixZero/flappy-bird-ai?style=for-the-badge)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ## Flappy Bird with Neat AI
